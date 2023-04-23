@@ -10,4 +10,4 @@ Examples of what you can do:
 3. "Hey ChatGPT, can you please start the MySQL server and create a new database called 'mydatabase' and a new user account called 'myuser' with password 'mypassword' that has full privileges on the 'mydatabase' database?"
 
 
-# There is a way, but it is not the best, under dev
+# There is a way under dev, but it's not the best.
