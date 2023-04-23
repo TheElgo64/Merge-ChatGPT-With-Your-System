@@ -8,3 +8,6 @@ Examples of what you can do:
 2. "Hey ChatGPT, can you please create a new user account called 'johndoe' and give them permission to read and write files in the '/home/johndoe' directory?"
 
 3. "Hey ChatGPT, can you please start the MySQL server and create a new database called 'mydatabase' and a new user account called 'myuser' with password 'mypassword' that has full privileges on the 'mydatabase' database?"
+
+
+# There is a way, but it is not the best, under dev
