@@ -11,7 +11,7 @@ Examples of what you can do:
 
 ##### Advanced one(In the distant future):
 
-- "Hey ChatGPT, can you please create a facebook account with my info [name,age,email,photo] and strong password, save the login credintals to google password manager and report XSS to facebook on sub.facbook.com?q=<xssHere>"
+- "Hey ChatGPT, can you please create a facebook account with my info [name,age,email,photo] and strong password, save the login credintals to google password manager and report XSS to facebook on sub.facbook.com?q=xssInjectionHere"
 
 #### There is a way under dev, but it's not the best.
 
